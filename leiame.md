@@ -1,0 +1,3 @@
+Integrantes: Felipe Bitello e Lucas Colling
+
+para jogar o jogo, basta apertar enter continuamente para seguir jogando...
